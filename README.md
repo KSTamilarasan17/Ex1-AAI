@@ -1,10 +1,8 @@
 <H3> Name:K.S.TAMILARASAN </H3>
 <H3>Register No.212223100056</H3>
 <H3> Experiment 1</H3>
-<H3>DATE:</H3>
+<H3>DATE:21/09/2024</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
-
-# Implementation of Bayesian Networks
 
 ## Aim :
     To create a bayesian Network for the given dataset in Python
